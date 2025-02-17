@@ -169,3 +169,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Flake8 Configuration
+.flake8
+
+# Data and Saved Model
+data/
+models/
