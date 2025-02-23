@@ -174,5 +174,5 @@ cython_debug/
 .flake8
 
 # Data and Saved Model
-data/
+guidelines/
 models/
